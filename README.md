@@ -62,4 +62,6 @@ The findings from the analysis are summarise as follow:
 
  1. No sufficient data for further enquiry on why the Revenue dropped in 2015
 
-  
+
+[Uploading Pivot Tables File.xlsx…]()
+
