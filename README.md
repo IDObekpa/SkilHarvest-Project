@@ -1,5 +1,16 @@
 # SkillHarvest Revenue Analysis
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- 
+
 ### Project Overview
 
 This project is dedicate to analys the revenue of SkillHarvest in the year 2014 and 2015 with major focus on the project line and sales per Region. This will enable us advise the business on certain key parameters.
@@ -33,8 +44,7 @@ The EDA involves exploring the Revenue data to answer key questions, such as :
 
 ### Data Analysis
 
-
-### Results / Findings
+#### Results / Findings
 
 The findings from the analysis are summarise as follow:
 
