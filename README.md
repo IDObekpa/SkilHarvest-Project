@@ -45,7 +45,7 @@ The findings from the analysis are summarise as follow:
 <img width="419" alt="CaptureSkil" src="https://github.com/user-attachments/assets/72321cd8-3c5b-400a-9eec-bbc4a6b69067">
 
     
- 3. It was also identified that over 85% of its Revenue were generated during working days compared to other working periods.
+ 3. It was also identified that over 95% of its Revenue were generated during working days compared to other working periods.
 
 
 
@@ -56,7 +56,10 @@ The findings from the analysis are summarise as follow:
 
    <img width="258" alt="CaptureSkil1" src="https://github.com/user-attachments/assets/ca4ba593-4f07-4725-af43-a73b68b83424">
 
- 3. SKillHarvest should pay keen attention to the reason why there is a drop in Revenue in 2015
+ 3. SKillHarvest should pay keen attention to the reason why there is a drop in Revenue in 2015.
+<img width="640" alt="CaptureSkil2" src="https://github.com/user-attachments/assets/02cd81d4-1ffc-4290-b907-04a48aea0235">
+
+    
 
 ### Limitations
 
