@@ -39,9 +39,19 @@ The EDA involves exploring the Revenue data to answer key questions, such as :
 The findings from the analysis are summarise as follow:
 
  1. The company's major revenue contributor for the two years is the North East regions, contributing 25% of its total revenue. This is followed by the South West Region contribtuing 22%. North Central is ranking the least per revenue for the two years contributing only 9%.
+ 2. Also, it was noticed that the Revenue drop from 2014 to 2015. root cause not identified from the data available
+ 3. It was also identified that over 85% of its Revenue were generated during working days compared to other working periods.
 
 
 
-Recommedations
+### Recommedations
+
+ 1. SkillHarvest should invest more in the Region contributing more to its Revenue
+ 2. Since bulk of its Revenue is generated during the normal working days, I will 
+ 3. SKillHarvest should pay keen attention to the reason why there is a drop in Revenue in 2015
+
+### Limitations
+
+ 1. No sufficient data for further enquiry on why the Revenue dropped in 2015
 
   
