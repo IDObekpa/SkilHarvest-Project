@@ -41,8 +41,11 @@ The findings from the analysis are summarise as follow:
  1. The company's major revenue contributor for the two years is the North East regions, contributing 25% of its total revenue. This is followed by the South West Region contribtuing 22%. North Central is ranking the least per revenue for the two years contributing only 9%.
     
     <img width="248" alt="CaptureSkil" src="https://github.com/user-attachments/assets/997d20b5-17bc-43cd-897a-4ee86bd5684a">
- 3. Also, it was noticed that the Revenue drop from 2014 to 2015. root cause not identified from the data available
- 4. It was also identified that over 85% of its Revenue were generated during working days compared to other working periods.
+ 2. Also, it was noticed that the units sold dropped from 2014 to 2015. root cause not identified from the data available
+<img width="419" alt="CaptureSkil" src="https://github.com/user-attachments/assets/72321cd8-3c5b-400a-9eec-bbc4a6b69067">
+
+    
+ 3. It was also identified that over 85% of its Revenue were generated during working days compared to other working periods.
 
 
 
