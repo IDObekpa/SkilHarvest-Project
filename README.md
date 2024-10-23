@@ -9,7 +9,7 @@
 - [Data Analysis](#data-analysis)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
-- 
+
 
 ### Project Overview
 
