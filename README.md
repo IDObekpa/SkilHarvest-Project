@@ -51,7 +51,10 @@ The findings from the analysis are summarise as follow:
 
 ### Recommedations
 
- 1. SkillHarvest should invest more in the Region contributing more to its Revenue
+ 1. SkillHarvest should invest more in the Region contributing more to its Revenue, especially the service plan line of business.
+![Uploading CaptureSkil3.PNG…]()
+
+    
  2. Since bulk of its Revenue is been generated during the normal working days (95%), I will strong recommend the company employees more employe to work on the normal working days and give incentive for overtime and allow staff rest on weekends/ holidays so they can be more productive during the coming week.
 
    <img width="258" alt="CaptureSkil1" src="https://github.com/user-attachments/assets/ca4ba593-4f07-4725-af43-a73b68b83424">
