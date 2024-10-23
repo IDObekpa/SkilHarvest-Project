@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
-- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Recommendations](#recommendations)
@@ -12,18 +12,22 @@
 
 
 ### Project Overview
+---
 
 This project is dedicate to analys the revenue of SkillHarvest in the year 2014 and 2015 with major focus on the project line and sales per Region. This will enable us advise the business on certain key parameters.
 
 ### Data Source
+---
 
 This data used for this project is "Pivot Tables File.xlsx" file, containing the company's revenue for each region for the year 2014 and 2015 directly exported fromt the ERP.
 
 ### Tools Used
+---
 
 - Excel was the primary data used to clean the data and also visualisation [Download here](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=016f9e77d8656e9b39578a99dc6568dc)
 
-### Data Cleaning & Preparation
+### Data Cleaning and Preparation
+---
 
 The following activities were performed during the data cleaning and preparation stage
 
@@ -33,6 +37,7 @@ The following activities were performed during the data cleaning and preparation
 - Categorizing the sales performance per states
 
 ### Exploratory Data Analysis
+---
 
 The EDA involves exploring the Revenue data to answer key questions, such as :
 
@@ -43,7 +48,7 @@ The EDA involves exploring the Revenue data to answer key questions, such as :
 5. Which period generated more revenue to the business?
 
 ### Data Analysis
-
+---
 #### Results / Findings
 
 The findings from the analysis are summarise as follow:
@@ -59,7 +64,8 @@ The findings from the analysis are summarise as follow:
 
 
 
-### Recommedations
+### Recommendations
+---
 
  1. SkillHarvest should invest more in the Region contributing more to its Revenue, especially the service plan line of business.
 
@@ -76,10 +82,13 @@ The findings from the analysis are summarise as follow:
     
 
 ### Limitations
+---
 
  1. No sufficient data for further enquiry on why the Revenue dropped in 2015
 
 
-
+### References
+---
+💻
 
 [Pivot Tables File.xlsx](https://github.com/user-attachments/files/17496256/Pivot.Tables.File.xlsx)
